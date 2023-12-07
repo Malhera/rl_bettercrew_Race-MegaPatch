@@ -1,0 +1,13 @@
+{
+  "author" : "Vix",
+  "description" : "A fairly important patch for BetterCrew (either [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3031599475]Full[/url][/b] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2892655130]diet version[/url]) to properly support modded races' techstations (S.A.I.L).\n\n[h1]The game won't start if you don't have [b]one[/b] of the two versions of Better Crew installed[/h1]\n[h2][b]Don't install both the full and diet versions of better crew at once[/b][/h2]\n\nSupports a shipload of races, patches 300+ techstations... and I don't really feel like listing about 300+ mods in the description just yet.\n\n\nNext step would be to make a patch to add crew anchors to modded tech stations and some decorations... but like, I can try to patch stuff as much as I can that there is just too many mods out there for me to patch everything.\nIf some modders can start adding support themselves, that would be swell °^°",
+  "friendlyName" : "Better Crew - Race MegaPatch",
+  "includes" : ["SCS Crafting Stations", "lombax", "Arsenalbound", "saturnians", "Odigreos race", "Wanderers Race Mod", "lucario", "kitsunerace", "Orcana", "Elunite"],
+  "link" : "steam://url/CommunityFilePage/3092932735",
+  "name" : "rl_bettercrew-racepatch",
+  "priority" : 9999,
+  "requires" : ["rl_bettercrew"],
+  "steamContentId" : "3092932735",
+  "tags" : "Miscellaneous|NPCs and Creatures|Ships|Species|Mechanics",
+  "version" : "1.4.0d"
+}
