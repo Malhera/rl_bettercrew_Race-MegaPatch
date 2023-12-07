@@ -1,7 +1,9 @@
+## Original mod over [there](https://github.com/rl-starbound/rl_bettercrew)
+
 A fairly important patch for BetterCrew (either **[Full](https://steamcommunity.com/sharedfiles/filedetails/?id=3031599475)** or [diet](https://steamcommunity.com/sharedfiles/filedetails/?id=2892655130) version) to properly support modded races' techstations (S.A.I.L).
 
-# The game won't start if you don't have **one** of the two versions of Better Crew installed
-**Don't install both the full and diet versions of better crew at once**
+## The game won't start if you don't have **one** of the two versions of Better Crew installed
+### **Don't install both the full and diet versions of better crew at once**
 
 Supports a shipload of races, patches 300+ techstations... and I don't really feel like listing about 300+ mods in the description just yet.
 
